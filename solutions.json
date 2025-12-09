@@ -49,6 +49,11 @@
           "day" : 5,
           "solution1": "https://github.com/nybjorn/AdventOfCode2025/blob/main/day5/src/gleamy_day_5.gleam",
           "solution2": "https://github.com/nybjorn/AdventOfCode2025/blob/main/day5/src/gleamy_day_5.gleam"
+        },
+        {
+          "day" : 6,
+          "solution1": "https://github.com/nybjorn/AdventOfCode2025/blob/main/day6/src/gleamy_day_6.gleam",
+          "solution2": "https://github.com/nybjorn/AdventOfCode2025/blob/main/day6/src/gleamy_day_6.gleam"
         }
       ]
     },
@@ -73,6 +78,31 @@
           "day": 1,
           "solution1": "https://github.com/kek/advent-of-code-2025/blob/c355f5becc9a94159f837c1451461f879a1f506e/test/day1_test.gleam#L49",
           "solution2": "https://github.com/kek/advent-of-code-2025/blob/c355f5becc9a94159f837c1451461f879a1f506e/test/day1_test.gleam#L56"
+        }
+      ]
+    },
+    {
+      "userName": "Kalebpc",
+      "solutions": [
+        {
+          "day": 1,
+          "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day1/pt1.ps1",
+          "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day1/pt2.ps1"
+        },
+        {
+          "day": 2,
+          "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day2/pt1.ps1",
+          "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day2/pt2.ps1"
+        },
+        {
+          "day": 4,
+          "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day4/cRollsPt1.ps1",
+          "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day4/cRollsPt2.ps1"
+        },
+        {
+          "day": 5,
+          "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day5/pt1.ps1",
+          "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day5/pt2.ps1"
         }
       ]
     }
