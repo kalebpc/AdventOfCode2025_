@@ -103,6 +103,11 @@
           "day": 5,
           "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day5/pt1.ps1",
           "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day5/pt2.ps1"
+        },
+        {
+          "day": 6,
+          "solution1": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day6/pt1.ps1",
+          "solution2": "https://github.com/kalebpc/AdventOfCode2025/blob/main/Day6/pt2.ps1"
         }
       ]
     }
